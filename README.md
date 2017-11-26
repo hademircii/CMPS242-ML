@@ -1,1 +1,2 @@
-Ham/Spam detector, batch gradient descent with regularizer, uses Numpy (No Tensorflow)
+PYTHON Code: Ham/Spam detector,uses  batch gradient descent logistic regression with regularizer, uses Numpy (No Tensorflow)
+
